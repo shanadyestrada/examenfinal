@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Roboto:wght@300;500;700&display=swap');
+
+/* NAV */
+.images-nav {
+    width: 180px;
+    height: 51px;
+    margin: 20px;
+}
+
+.btn {
+    background-color: rgba(117, 191, 122, 1);
+}
+
+
+
+.info-footer h4 {
+    color: black;
+    font-size: 24px;
+    font-family: Roboto;
+    font-weight: 500;
+    padding: 0 0 7px 0;
+}
+.info-footer p {
+    color: grey;
+    font-size: 15px;
+    font-family: Roboto;
+    font-weight: 300;
+}
+.info-1 {
+    margin: 0px 50px;
+}
+.button-footer a {
+    background-color: black;
+    border-radius: 5px;
+    padding: 8px 24px;
+    margin: 0px 15px;
+    font-size: 13px;
+    font-family: Roboto;
+    font-weight: 700;
+    text-decoration: none;
+    color: #fff;
+}
+
+
+
+/* Phone */
+@media screen and (max-width: 767.98px) {
+
+}
+
+
+/* Tablet */
+@media (min-width: 768px) and (max-width: 991.98px) {}
